@@ -1,0 +1,25 @@
+###################################################################################################
+## 
+## README file for feather-xmr-wallet-getter bash script
+##
+## By: Flora Mae Wolfe
+## Email: floramaewolfe@gmail.com
+## GitHub: https://github.com/FloraMaeWolfe
+## 
+###################################################################################################
+
+
+How to use this script:
+* Download it
+git clone https://github.com/FloraMaeWolfe/feather-xmr-wallet-getter.git
+
+* Change permissions as needed:
+chmod +x feather-xmr-wallet-getter.sh
+
+* Run it:
+./feather-xmr-wallet-getter.sh
+
+
+NOTES:
+* This script is currently experimental. It has only been verified to work on Linux Mint 21.2. Other distros have not been tested yet.
+* If you enjoy my work and want to support me and my work, there is a file with information on how to do so. 
